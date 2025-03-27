@@ -1,2 +1,3 @@
-# titleModifier
-Plugin de ArchiHub para modificar títulos de recursos usando la API de OpenAI.
+# Plugin para modificar títulos de recursos en ArchiHub usando la API de OpenAI
+
+Este plugin fue desarrollado a modo de ejemplo para mostrar cómo se puede crear un plugin en ArchiHub que modifique títulos de recursos utilizando la API de OpenAI. El plugin permite modificar los títulos de los recursos seleccionados y guardar los cambios en la base de datos de ArchiHub. Para más información sobre cómo crear plugins en ArchiHub, consulta la [documentación oficial](https://archihub-app.github.io/archihub.github.io/es/crear_plugin/).
